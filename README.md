@@ -1,5 +1,2 @@
 
-# You can choose the way you want to go
-
-[Blog](/Blog/)
-
+# This is a Website written by Ameiyo
